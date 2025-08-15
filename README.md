@@ -22,7 +22,7 @@
 🔭 **Currently Working On:** Backend Development  
 🌱 **Currently Learning:** React JS  
 💬 **Ask Me About:** Node.js, Express.js & DBMS  
-🔗 **View My Resume:** [Resume Link](https://drive.google.com/file/d/10-wpltXLEhA90ZPhhZVbguj-TAW9uRAs/view?usp=sharing)  
+🔗 **View My Resume:** [Resume Link](https://drive.google.com/file/d/1jSMhTPnz5dEJV21n5L1prrJDrzGsdfuX/view?usp=sharing)  
 
 <div align="center">
   <a href="mailto:chintadapavansurya@gmail.com">
