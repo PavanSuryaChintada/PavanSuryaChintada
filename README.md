@@ -1,14 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavansuryachintada.pavansuryachintada&color=2111DE" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2111DE,100:4CC9F0&height=120&section=header"/>
+<br><br>
 
-<h2 align="center">
-PAVAN SURYA CHINTADA
-</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2111DE,100:4CC9F0&height=120&section=header"/>
 
 <p align="center">
-Full Stack Developer • AI Workflow Engineer • Automation Architect
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=48&duration=1&pause=999999&center=true&vCenter=true&width=900&height=80&color=4CC9F0&lines=PAVAN+SURYA+CHINTADA"/>
 </p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=500&color=4CC9F0&lines=Agentic+AI+Automation;Realtime+Full+Stack+Platforms;Workflow+Driven+Backend+Systems"/>
@@ -88,7 +87,6 @@ Full Stack Developer • AI Workflow Engineer • Automation Architect
 
 </p>
 
----
 
 ## 🤖 AI & Automation Stack
 
@@ -102,7 +100,7 @@ Full Stack Developer • AI Workflow Engineer • Automation Architect
 <img src="https://img.shields.io/badge/Django%20REST%20Framework-API%20Engine-red?style=for-the-badge"/>
 </p>
 
----
+
 
 ## 📊 Data & Analytics Stack
 
@@ -113,17 +111,23 @@ Full Stack Developer • AI Workflow Engineer • Automation Architect
 <img src="https://img.shields.io/badge/DSA-Problem%20Solving-purple?style=for-the-badge"/>
 </p>
 
----
+
 
 ## 🧩 Highlight Projects
 
-```diff
-+ AI Recruitment Automation Pipeline
-+ Stego Chats - AES 256 Secure Messaging
-+ Social Feed & Karma Engine
-+ MERN Production Apps for Startups
-+ AI Workflow SaaS Platforms
-```
+<table align="center">
+<tr>
+<td>
+
+🚀 AI Recruitment Automation Pipeline  
+🔐 Stego Chats - AES 256 Secure Messaging  
+🎮 Social Feed & Karma Engine  
+⚙️ MERN Production Apps for Startups  
+🧠 AI Workflow SaaS Platforms  
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2111DE,100:4CC9F0&height=2&section=header"/>
@@ -165,14 +169,20 @@ Full Stack Developer • AI Workflow Engineer • Automation Architect
 
 ## 🧱 System Design Domains
 
-```css
-• AI Recruitment Pipelines
-• Secure Communication Systems
-• Automation SaaS Platforms
-• Gamified Social Engines
-• Real-Time Event Driven Apps
-• ERP & CRM Platforms
-```
+<table align="center">
+<tr>
+<td>
+
+⚡ AI Recruitment Pipelines  
+🔐 Secure Communication Systems  
+☁️ Automation SaaS Platforms  
+🎮 Gamified Social Engines  
+📡 Real-Time Event Driven Apps  
+🏢 ERP & CRM Platforms  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -189,4 +199,4 @@ Full Stack Developer • AI Workflow Engineer • Automation Architect
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2111DE,100:4CC9F0&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2111DE,100:4CC9F0&height=120&section=footer"/>
